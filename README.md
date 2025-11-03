@@ -37,4 +37,4 @@ Kamu akan membangun Admin Web yang bisa:
 
 🧠 2. Ilmu yang Perlu Kamu Kuasai
 
-# Kategori          # Ilmu Yang di Pelajari          # Kegunaan
+* Kategori          * Ilmu Yang di Pelajari          * Kegunaan
