@@ -37,4 +37,31 @@ Kamu akan membangun Admin Web yang bisa:
 
 🧠 2. Ilmu yang Perlu Kamu Kuasai
 
-* Kategori          * Ilmu Yang di Pelajari          * Kegunaan
+# Kategori
+
+- Manajemen Bisnis & Keuangan
+- Web Development (Frontend)
+- Backend Development
+- Database
+- Payment Gateway Integration
+- Security
+
+# Ilmu yang Dipelajari
+
+- Dasar akuntansi, laporan laba-rugi, arus kas, invoice
+- HTML, CSS, JavaScript/TypeScript, React atau Vue
+- Node.js (Express) atau Laravel
+- MySQL / PostgreSQL / MongoDB
+- Midtrans, Xendit, atau DOKU API
+- JWT, enkripsi data
+
+# Kegunaan
+
+- Agar data keuangan di admin benar dan rapi
+- Tampilan dashboard, form produk, tabel transaksi
+- Menangani transaksi, validasi, API
+- Simpan data produk, pelanggan, pembayaran
+- Proses pembayaran otomatis
+- Melindungi data admin & pelanggan
+
+# 🧱 3. Struktur Fitur Web Admin Keuangan
