@@ -65,3 +65,41 @@ Kamu akan membangun Admin Web yang bisa:
 - Melindungi data admin & pelanggan
 
 # 🧱 3. Struktur Fitur Web Admin Keuangan
+
+🔐 Autentikasi
+
+- Login & Logout Admin
+- Hak akses (misal: admin keuangan, admin produk)
+
+🧾 Dashboard Utama
+
+- Total pemasukan harian / bulanan
+- Jumlah transaksi sukses / gagal
+- Statistik produk terlaris
+- Grafik arus kas dan pendapatan
+
+🛍️ Modul Produk & Katalog
+
+- CRUD Produk (nama, deskripsi, harga, kategori, gambar)
+- Tabel daftar produk
+- Fitur filter & pencarian produk
+- Modul update harga otomatis
+
+💳 Modul Keuangan / Payment Gateway
+
+- Daftar semua transaksi (dari API Midtrans/Xendit)
+- Status pembayaran (pending, success, failed)
+- Laporan pemasukan & pengeluaran
+- Ekspor laporan ke PDF / Excel
+
+👥 Modul Pengguna
+
+- Data pelanggan
+- Riwayat pembelian
+- Informasi akun (email, telepon, dll)
+
+⚙️ Modul Pengaturan
+
+- Data perusahaan (logo, nama, alamat)
+- Pengaturan API Payment Gateway
+- Hak akses user admin lain
