@@ -2,7 +2,7 @@
 
 1. Dasar bisnis dan manajemen
 
-- Pengertian seller, customer, sales, manager
+- Pengertian Owner, manager / Manajemen, Seller / Penjual, ales / Marketing, Customer / Pelanggan, Supplier / Pemasok, Finance / Keuangan, Karyawan / Staff Operasional, Konsultan / Advisor
 - Alur kerja bisnis (order → payment → report)
 
 2. Dasar web development
